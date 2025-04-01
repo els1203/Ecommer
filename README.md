@@ -18,7 +18,7 @@ Este proyecto tiene un **backend en Laravel 8** y un **frontend en Angular**. A 
 
    Clona el repositorio del backend desde GitHub:
    ```bash
-   git clone https://gitlab.com/jadegames/jhona-backend.git
+   git clone https://github.com/els1203/Ecommer.git
    cd backend-repo
 
 2. Instalar las Dependencias de PHP
